@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+data/yellow_tripdata_2020-01.csv
+data/taxi+_zone_lookup.csv
